@@ -27,5 +27,4 @@ Choose which number system you will enter:
 To get started with the Programmer Calculator, follow these steps:
 
 1. Clone the repository:
-   ```sh
-   git clone https://github.com/ABODA-2006/Programmer-Calculator.git
+download the zipped file and go to x64 > debug and enjoy !
